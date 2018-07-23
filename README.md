@@ -15,6 +15,7 @@ This project is useful for anyone who just want to get the CS up and running wit
     - Use local volumes
     - Use the new network created so that the DB is reachable
     - Update of the base image, host and container names
+  - Update the `CS-Docker-Compose_Stateless.yml` `DOCKER_HOST` value to that of your host. Use `ipconfig` to find the IP address.
 
 #### Building the container
 
