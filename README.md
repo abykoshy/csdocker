@@ -3,7 +3,7 @@
 This project is useful for anyone who just want to get the CS up and running without having to really understand Docker 
 
 #### Pre-requisites
-  - [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+  - Install [Docker for Windows](https://docs.docker.com/docker-for-windows/install/). Make sure Virtualization is enabled on your system (https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization)
   - Content server docker tar from OpenText. I am using the Ubuntu verion here : contentserver_docker_ubuntu.tar
 #### Preparation
   - Extract contentserver_docker_ubuntu.tar to a folder
